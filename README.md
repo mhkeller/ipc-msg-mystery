@@ -1,7 +1,7 @@
 IPC Child test
 ===
 
-This is to test whether you can set up an ipc channel between a parent and child script when you execute the parent script via an npm script.
+This is to test whether you can set up an ipc channel between a parent and child script when you execute the child script via an npm script.
 
 It doesn't seem possible with a basic setup. Tips welcome.
 
